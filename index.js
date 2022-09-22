@@ -53,10 +53,6 @@ class ConcatPlugin {
      * @param {string} string
      */
     ensureTrailingSlash(string) {
-        if (string.length && string.substr(-1, 1) !== '/') {
-            return `${string}/`;
-        }
-
         return string;
     }
 
