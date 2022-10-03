@@ -1,5 +1,5 @@
 {
-  "name": "@trekels/webpack-concat-plugin",
+  "name": "webpack-concat-plugin",
   "version": "4.1.6",
   "author": "mcler",
   "description": "Webpack file concatenation.",
@@ -41,10 +41,10 @@
   "homepage": "https://github.com/mcler/webpack-concat-plugin",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mcler/webpack-concat-plugin.git"
+    "url": "git+https://github.com/trekels/webpack-concat-plugin.git"
   },
   "bugs": {
-    "url": "https://github.com/mcler/webpack-concat-plugin/issues"
+    "url": "https://github.com/trekels/webpack-concat-plugin/issues"
   },
   "jest": {
     "testEnvironment": "node"
